@@ -3,12 +3,13 @@
 不定时记录计算机相关学习笔记
 建议使用[vnote](https://github.com/vnotex/vnote)浏览
  
-## C++
-* [x] [call_once](C++/call_once.md)
+## 1. C++
+### 1.1. [call_once](C++/call_once.md)
+不需要某给函数被调用多次或者某些变量被初始化多次
  
-## Linux
- * [ ] netfilter
- * [ ] nfqueue
+## 2. Linux
+### 2.1. [netfilter](Linux/netfilter.md)
+### 2.2. [nfqueue](Linux/nfqueue.md)
  
-## Python
+## 3. Python
      

@@ -8,6 +8,9 @@
 *不需要某给函数被调用多次或者某些变量被初始化多次* 
 ### [模板类和实现分离](C++/模板类和实现分离.md)
 *模板类的实现和分离比较特殊，需要在声明中定义实例化声明*
+### [Vector](C++/vector.md)
+*vecotor容器相关介绍*
+
 ## 2. Linux
 ### [netfilter](Linux/netfilter.md)
 ### [nfqueue](Linux/nfqueue.md)

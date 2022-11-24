@@ -9,6 +9,7 @@
 ## 2. Linux
 ### 2.1. [netfilter](Linux/netfilter.md)
 ### 2.2. [nfqueue](Linux/nfqueue.md)
- 
+### 2.3. [core dump](Linux/core_dump生成.md) 
+
 ## 3. Python
      

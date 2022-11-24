@@ -10,6 +10,12 @@
 > *模板类的实现和分离比较特殊，需要在声明中定义实例化声明*
 ### 1.4. [Vector](C++/vector.md)
 > *vecotor容器相关介绍*
+### 1.5. [C++工具](C++/C++工具.md)
+### 1.6. [智能指针](C++/智能指针.md)
+### 1.7. [static关键字](C++/statics关键字.md)
+### 1.8. [为什么头文件必须加#ifndef](C++/为什么文件头必须加ifndef.md)
+### 1.9. [C和C++混合编程](C++/C和C++混合编程.md)
+>*利用_cplusplus和 extern ‘’C*关键字，实现C++调用C函数
 
 ## 2. Linux
 ### 2.1. [netfilter](Linux/netfilter.md)

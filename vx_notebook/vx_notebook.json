@@ -1,14 +1,14 @@
 {
     "attachment_folder": "vx_attachments",
     "config_mgr": "vx.vnotex",
-    "created_time": "2022-11-23T09:17:29Z",
+    "created_time": "2022-11-24T09:03:00Z",
     "description": "",
     "extra_configs": {
     },
     "history": [
     ],
     "image_folder": "vx_images",
-    "name": "Python",
+    "name": "computer_note",
     "tag_graph": "",
     "version": 3,
     "version_controller": "dummy.vnotex"

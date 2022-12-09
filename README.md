@@ -37,4 +37,6 @@
 
 ## Git
  * [x] [删除远程分支失败](Git/删除远程分支失败.md)*远程分支和tag重名*
+ * [x] [gitlab-runner执行sudo命令无权限](Git/gitlab-runner执行sudo命令无权限.md)
+
  <br />
